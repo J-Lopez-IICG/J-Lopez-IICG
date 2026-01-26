@@ -32,8 +32,5 @@
 
 ---
 
-### 📊 Tecnologías más usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Lopez-IICG&layout=compact&theme=dark&hide_border=true)
-
 ### 📈 Estadísticas de Actividad
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Lopez-IICG&show_icons=true&theme=dark&hide_rank=true&hide_border=true)
