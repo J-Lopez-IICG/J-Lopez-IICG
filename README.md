@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Javier López
 
-<!--
-**J-Lopez-IICG/J-Lopez-IICG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst & BI Developer | Especialista en Python (Kedro) & SQL Avanzado
 
-Here are some ideas to get you started:
+* 📊 Mira mis proyectos destacados en mi **[Portafolio de GitHub](https://github.com/J-Lopez-IICG)**
+* 📫 Cómo contactarme: **javier.lopez.iicg@gmail.com**
+* 📄 Conoce más sobre mi trayectoria en **[LinkedIn](https://www.linkedin.com/in/javierlopez-iicg/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me:**
+<a href="https://www.linkedin.com/in/javierlopez-iicg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierlopez-iicg" height="30" width="40" /></a>
+<a href="mailto:javier.lopez.iicg@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="javier.lopez.iicg" height="30" width="40" /></a>
+
+**Languages and Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🚀 Impacto Profesional
+* [cite_start]**Automatización ELT:** Reduje en un **30%** los tiempos de reporte mediante pipelines robustos en Python (Kedro)[cite: 8, 13].
+* [cite_start]**Optimización de Consultas:** Mejora del **20%** en eficiencia de gestión de audiencias usando BigQuery[cite: 18].
+* [cite_start]**Integridad del Dato:** Diseño de arquitecturas de "Única Fuente de Verdad" para niveles gerenciales[cite: 14].
