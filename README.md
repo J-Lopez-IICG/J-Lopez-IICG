@@ -1,15 +1,15 @@
 # Hi 👋, I'm Javier López
 
-### Data Analyst & BI Developer | [cite_start]Especialista en Python (Kedro) & SQL Avanzado [cite: 4]
+### Data Analyst & BI Developer | Especialista en Python (Kedro) & SQL Avanzado
 
-* [cite_start]📊 Mira mis proyectos destacados en mi **[Portafolio de GitHub](https://github.com/J-Lopez-IICG)** [cite: 22]
-* [cite_start]📫 Cómo contactarme: **javier.lopez.iicg@gmail.com** [cite: 4]
-* [cite_start]📄 Conoce más sobre mi trayectoria en **[LinkedIn](https://www.linkedin.com/in/javierlopez-iicg/)** [cite: 4]
+* 📊 Mira mis proyectos destacados en mi **[Portafolio de GitHub](https://github.com/J-Lopez-IICG)**
+* 📫 Cómo contactarme: **javier.lopez.iicg@gmail.com**
+* 📄 Conoce más sobre mi trayectoria en **[LinkedIn](https://www.linkedin.com/in/javierlopez-iicg/)**
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/javierlopez-iicg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierlopez-iicg" height="30" width="40" /></a>
-<a href="mailto:javier.lopez.iicg@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="javier.lopez.iicg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javierlopez-iicg/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:javier.lopez.iicg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 **Languages and Tools:**
@@ -26,11 +26,14 @@
 ---
 
 ### 🚀 Impacto Profesional
-* [cite_start]**Automatización ELT:** Reduje en un **30%** los tiempos de reporte mediante pipelines robustos en Python (Kedro)[cite: 8, 13].
-* [cite_start]**Optimización de Consultas:** Mejora del **20%** en eficiencia de gestión de audiencias usando BigQuery[cite: 18].
-* [cite_start]**Arquitectura de Datos:** Diseño de modelos analíticos en SQL actuando como **"Única Fuente de Verdad"** para la gerencia[cite: 14].
+* **Automatización ELT:** Reducción del **30%** en tiempos de reporte mediante pipelines robustos en Python (Kedro).
+* **Optimización de Consultas:** Mejora del **20%** en la eficiencia de gestión de audiencias usando BigQuery.
+* **Integridad del Dato:** Diseño de arquitecturas de "Única Fuente de Verdad" para soporte en la toma de decisiones gerenciales.
 
 ---
 
-### 📊 GitHub Stats
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Lopez-IICG&show_icons=true&theme=dark)
+### 📊 Tecnologías más usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Lopez-IICG&layout=compact&theme=dark&hide_border=true)
+
+### 📈 Estadísticas de Actividad
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Lopez-IICG&show_icons=true&theme=dark&hide_rank=true&hide_border=true)
