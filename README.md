@@ -29,8 +29,3 @@
 * **Automatización ELT:** Reducción del **30%** en tiempos de reporte mediante pipelines robustos en Python (Kedro).
 * **Optimización de Consultas:** Mejora del **20%** en la eficiencia de gestión de audiencias usando BigQuery.
 * **Integridad del Dato:** Diseño de arquitecturas de "Única Fuente de Verdad" para soporte en la toma de decisiones gerenciales.
-
----
-
-### 📈 Estadísticas de Actividad
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Lopez-IICG&show_icons=true&theme=dark&hide_rank=true&hide_border=true)
