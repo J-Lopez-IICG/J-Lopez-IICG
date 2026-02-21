@@ -1,8 +1,8 @@
 # Hi 👋, I'm Javier López
 
-### Data Analyst & BI Developer | Especialista en Python (Kedro) & SQL Avanzado
+### Data Engineer & Analytics Engineer | Specialist in Modern Data Stack (Kedro, Airflow, Spark)
 
-* 📊 Mira mis proyectos destacados en mi **[Portafolio de GitHub](https://github.com/J-Lopez-IICG)**
+* 📊 Mira mi proyecto insignia de producción regional: **[Lomar-ModernStack](https://github.com/J-Lopez-IICG/Lomar-ModernStack)**
 * 📫 Cómo contactarme: **javier.lopez.iicg@gmail.com**
 * 📄 Conoce más sobre mi trayectoria en **[LinkedIn](https://www.linkedin.com/in/javierlopez-iicg/)**
 
@@ -12,20 +12,24 @@
 <a href="mailto:javier.lopez.iicg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-**Languages and Tools:**
+**Data Engineering & Analytics Stack:**
 <p align="left">
+  <img src="https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
 
-### 🚀 Impacto Profesional
-* **Automatización ELT:** Reducción del **30%** en tiempos de reporte mediante pipelines robustos en Python (Kedro).
-* **Optimización de Consultas:** Mejora del **20%** en la eficiencia de gestión de audiencias usando BigQuery.
-* **Integridad del Dato:** Diseño de arquitecturas de "Única Fuente de Verdad" para soporte en la toma de decisiones gerenciales.
+### 🚀 Impacto y Capacidades Técnicas
+* **Arquitectura Modern Data Stack:** Diseño e implementación de pipelines **End-to-End** utilizando **Kedro** para la lógica de negocio y **Airflow (DAGs)** para la orquestación masiva.
+* **Procesamiento Distribuido:** Manejo de grandes volúmenes de datos mediante **PySpark** y optimización de cargas de trabajo en entornos **Databricks**.
+* **Infraestructura como Código (IaC):** Contenerización de entornos de desarrollo y producción con **Docker**, garantizando la reproducibilidad y escalabilidad de los flujos ETL.
+* **Optimización de Costos y Tiempos:** Reducción significativa de tiempos de ejecución mediante particionamiento eficiente en Data Lakes (GCS) y optimización de queries SQL avanzadas.
+
+---
