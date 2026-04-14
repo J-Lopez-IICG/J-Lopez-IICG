@@ -37,12 +37,12 @@ Actualmente lidero **RootCode**, diseñando arquitecturas modernas de datos y mo
 
 ## 🌟 Proyectos Destacados
 
-### 🛡️ [Real-Time Fraud Detection System](https://github.com/J-Lopez-IICG/Lomar-ModernStack)
+### 🛡️ [Real-Time Fraud Detection System](https://https://github.com/J-Lopez-IICG/Technical-Challenge-JavierLopez)
 * **Core:** Ingesta y Storage en Data Lake (MinIO/S3) con validación de esquemas y enriquecimiento vía API REST .
 * **Detección:** Lógica para identificar anomalías mediante segmentación de flujos y alertas en tiempo real con Apache Kafka .
 * **Stack:** Python, Kafka, PostgreSQL, Docker, MinIO .
 
-### 🚕 [NYC Taxi Big Data Pipeline](https://github.com/J-Lopez-IICG/Lomar-ModernStack)
+### 🚕 [NYC Taxi Big Data Pipeline](https://github.com/J-Lopez-IICG/NY-TripData-Databricks)
 * **Core:** Arquitectura Medallion en ADLS Gen2 con procesamiento distribuido en PySpark para +19M de registros .
 * **Analytics:** Modelado para análisis de rentabilidad por zona orquestado con Kedro, garantizando la disponibilidad de activos analíticos .
 * **Stack:** PySpark, Azure Databricks, Delta Lake, Kedro, Power BI .
@@ -53,4 +53,4 @@ Actualmente lidero **RootCode**, diseñando arquitecturas modernas de datos y mo
 * **LinkedIn:** [in/javierlopez-iicg](https://linkedin.com/in/javierlopez-iicg) 
 * **Website:** [rootcode.cl](https://rootcode.cl) 
 * **Email:** [javier.lopez.iicg@gmail.com](mailto:javier.lopez.iicg@gmail.com) 
-* **Ubicación:** Puerto Montt, Chile 🇨🇱 ```
+* **Ubicación:** Puerto Montt, Chile 🇨🇱 
