@@ -37,7 +37,7 @@ Actualmente lidero **RootCode**, diseñando arquitecturas modernas de datos y mo
 
 ## 🌟 Proyectos Destacados
 
-### 🛡️ [Real-Time Fraud Detection System](https://https://github.com/J-Lopez-IICG/Technical-Challenge-JavierLopez)
+### 🛡️ [Real-Time Fraud Detection System](https://github.com/J-Lopez-IICG/Technical-Challenge-JavierLopez)
 * **Core:** Ingesta y Storage en Data Lake (MinIO/S3) con validación de esquemas y enriquecimiento vía API REST .
 * **Detección:** Lógica para identificar anomalías mediante segmentación de flujos y alertas en tiempo real con Apache Kafka .
 * **Stack:** Python, Kafka, PostgreSQL, Docker, MinIO .
