@@ -50,4 +50,7 @@ Actualmente lidero **RootCode**, diseñando arquitecturas modernas de datos y mo
 ---
 
 ## 📫 Conectemos
-* **LinkedIn:** [in/javierlopez-iicg](https://linkedin.com/in/javierlopez-iicg) * **Website:** [rootcode.cl](https://rootcode.cl) * **Email:** [javier.lopez.iicg@gmail.com](mailto:javier.lopez.iicg@gmail.com) * **Ubicación:** Puerto Montt, Chile 🇨🇱 ```
+* **LinkedIn:** [in/javierlopez-iicg](https://linkedin.com/in/javierlopez-iicg) 
+* **Website:** [rootcode.cl](https://rootcode.cl) 
+* **Email:** [javier.lopez.iicg@gmail.com](mailto:javier.lopez.iicg@gmail.com) 
+* **Ubicación:** Puerto Montt, Chile 🇨🇱 ```
